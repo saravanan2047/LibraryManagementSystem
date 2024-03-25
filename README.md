@@ -6,12 +6,16 @@ FEATURES:
             * Log out
             * Password change
             * Company setup
-  2) User : * Add user
+
+     
+  3) User : * Add user
             * update user
             * Display Users
             * Remove Users
             * Search user
-3) Books : * Add books
+
+     
+4) Books : * Add books
            * Update books
            * Delete books
            * search books
